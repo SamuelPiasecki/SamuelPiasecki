@@ -1,8 +1,9 @@
 ### Hi! I'm Samuel Piasecki
 ##
 
-- 🔭 I’m currently working with front-end
+- 🔭 I’m currently working with Frontend
 - 🌱 I’m currently learning React
+- Take a look at my <a href="https://my-personal-portfolio-nu-two.vercel.app" target="_blank">Website</a>
   
 ##
 
@@ -15,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/samupiasecki/" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
