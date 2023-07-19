@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with Frontend
 - 🌱 I’m currently learning React
-- Take a look at my <a href="https://my-personal-portfolio-nu-two.vercel.app" target="_blank">Website</a>
+- 🔗 Take a look at my <a href="https://my-personal-portfolio-nu-two.vercel.app" target="_blank">Website</a>
   
 ##
 
