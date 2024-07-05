@@ -2,7 +2,7 @@
 ##
 
 - 🔭 I’m currently working with Frontend
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Next.js e Vue
 - 🔗 Take a look at my <a href="https://samuelpiasecki.com" target="_blank">Website</a>
   
 ##
