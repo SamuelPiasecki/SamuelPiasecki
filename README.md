@@ -2,7 +2,7 @@
 ##
 
 - 🔭 I’m currently working with Frontend
-- 🌱 I’m currently learning React, Next.js e Vue
+- 🌱 I’m currently learning React, Next.js, Vue, and Node
 - 🔗 Take a look at my <a href="https://samuelpiasecki.com" target="_blank">Website</a>
   
 ##
@@ -30,4 +30,5 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=node.js&logoColor=4FC08D" alt="Node" />
 </div>
