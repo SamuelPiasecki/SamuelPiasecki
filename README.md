@@ -1,7 +1,8 @@
 ### Hi! I'm Samuel Piasecki
 ##
 
-- 🌱 I’m currently learning React, Next.js, Vue, and Node
+- 🌱 I’m currently learning Mobile Development with Flutter, and Web Development with Vue.js
+- I'm currently working with Flutter
 - 🔗 Take a look at my <a href="https://samuelpiasecki.com" target="_blank">Website</a>
   
 ##
